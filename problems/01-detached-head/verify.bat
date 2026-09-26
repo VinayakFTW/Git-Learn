@@ -9,7 +9,7 @@ echo =====================================================================
 echo.
 
 set "TARGET_DIR=%~dp0workspace"
-
+ 
 if not exist "%TARGET_DIR%\.git" (
     echo [ERROR] No workspace found at: %TARGET_DIR%
     echo Please run setup.bat first!
