@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 The Scenario
+## 📖 The Scene
 
 Late last night, you were reviewing your team's Python calculator project (`calculator.py`). You wanted to inspect how the multiplication feature was implemented before your partner added documentation. 
 
