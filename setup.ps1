@@ -10,7 +10,7 @@
     4. Automatically configures and verifies PATH environment variables.
     5. Configures essential student Git settings (user identity, default branch to main, autocrlf).
     6. Verifies Git Bash integration and context menu shortcuts.
-#>
+#>tfhgfhf
 
 [CmdletBinding()]
 param()
