@@ -5,7 +5,7 @@
 [![Git](https://img.shields.io/badge/Git-2.40+-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](#-automated-setup--os-detection)
-[![Target Audience](https://img.shields.io/badge/Target-1st%20Year%20CSE%20%26%20AIML-purple)](#-foundational-mental-models)
+[![Target Audience](https://img.shields.io/badge/Target-1st%20Year%20CSE%20%26%20AIML-purple)] (#-foundational-mental-models)
 
 ---
 
