@@ -10,7 +10,7 @@ These interactive problems allow you to practice diagnosing and fixing real repo
 
 ## 🏆 Challenge Index
 
-| # | Challenge Name | Focus Area | Real-World Dilemma |
+| # | Challenge Name | Focus Area | Real-World Dilemma | Suryansh
 | :-: | :--- | :--- | :--- |
 | **01** | [**The Detached Time Traveler**](./01-detached-head) | History & Branches | You inspected past code and now Git warns you are in "Detached HEAD" state. |
 | **02** | [**Accidental Staging of Secrets**](./02-accidental-staging-secrets) | Staging & Security | A teammate staged a sensitive API key and a 50MB dataset right before commit. |
