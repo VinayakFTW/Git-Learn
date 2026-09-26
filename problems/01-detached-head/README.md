@@ -7,8 +7,11 @@
 
 ## 📖 The Scenario
 
-Late last night, you were reviewing your team's Python calculator project (`calculator.py`). You wanted to inspect how the multiplication feature was implemented before your partner added documentation. 
+Late last night, you were reviewing your team's Python calculator project (`calculator.py`). You wanted to inspect how the multiplicati
+on feature was implemented before your partner added documentation. 
 
+
+kenisha
 You ran a command to jump back in time to that specific snapshot. You examined the file, tested it, and everything looked great! 
 
 However, when you returned to your terminal this morning to continue building new features, Git started showing an ominous warning message:
@@ -43,7 +46,7 @@ Notice the output:
 Your goal is to safely restore the repository to normal operation without losing any project history:
 
 1. **Reattach to the primary development line**: Ensure your active branch is `main`.
-2. **Restore full project files**: All project files from the latest snapshot (including `usage.txt` and the latest `calculator.py`) must be visible in your working folder.
+2. **Restore full project files**: All project files from the latest snapshot (including `usage.txt` and the latest `calculator.py`) must be visible in yogit ur working folder.
 3. **Clean Working Tree**: `git status` must confirm that you are on branch `main` with nothing left uncommitted.
 4. **Preserve All Commits**: All 3 original commits created during project setup must remain present in your commit log (`git log --oneline`).
 
