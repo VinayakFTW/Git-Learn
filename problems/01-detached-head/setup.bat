@@ -56,8 +56,8 @@ echo.
 echo =====================================================================
 echo [SUCCESS] Problem 01 scenario generated in: workspace/
 echo.
-echo Next steps:
-echo   1. cd workspace
+echo Next steps: blah blah
+echo   1. cd workspace 
 echo   2. Read the instructions in ..\README.md
 echo   3. Run 'git status' to observe the symptoms
 echo   4. Fix the issue using Git commands!
