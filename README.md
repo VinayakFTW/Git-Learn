@@ -69,7 +69,7 @@
 
 ---
 
-## 1. 🧭 Foundational Mental Models
+## 1. Swastik🧭 Foundational Mental Models
 
 ### The Horror Story: Why Do We Need Git?
 Every college student before learning Git has experienced this directory:
