@@ -1,5 +1,7 @@
 # 🚀 Master Git & GitHub: The Complete Guide for CSE & AIML Students
 
+I am Upali.
+
 > *From your very first commit to open-source contributions, team hackathons, and production-ready    machine learning workflows.*
 
 [![Git](https://img.shields.io/badge/Git-2.40+-F05032?logo=git&logoColor=white)](https://git-scm.com/)
