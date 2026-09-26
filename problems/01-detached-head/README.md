@@ -56,7 +56,7 @@ Your goal is to safely restore the repository to normal operation without losing
 - Use Git commands to navigate back to safety.
 
 ---
-
+Maitreyi
 ## 🧪 How to Verify Your Solution
 
 Once you believe you have re-attached to `main` and restored the repository:
