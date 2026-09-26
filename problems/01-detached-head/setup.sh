@@ -4,7 +4,7 @@ set -e
 # Problem 01 Setup Script for macOS & Linux
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-cd "$SCRIPT_DIR"
+cd "$SCRIPT_DIR" 
 
 echo "====================================================================="
 echo "       Setting up Problem 01: The Detached Time Traveler"
