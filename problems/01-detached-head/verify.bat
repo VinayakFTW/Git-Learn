@@ -3,7 +3,8 @@ setlocal enabledelayedexpansion
 
 title Verify Problem 01
 
-echo =====================================================================
+
+echo = ====================================================================
 echo         Verifying Problem 01: The Detached Time Traveler
 echo =====================================================================
 echo.
