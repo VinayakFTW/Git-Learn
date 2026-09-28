@@ -3,7 +3,7 @@
 **Focus Area:** Git References, HEAD, and Branch Navigation  
 **Estimated Time:** 5 - 10 minutes  
 
----
+---Srijeet Das---
 
 Learning to use Git and GitHub
 
